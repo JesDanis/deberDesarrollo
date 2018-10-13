@@ -5,6 +5,8 @@
  */
 package deberdesarrollo;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Usuario
@@ -15,7 +17,7 @@ public class DeberDesarrollo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        JOptionPane.showMessageDialog(null, "Hola Mundo");
     }
     
 }
