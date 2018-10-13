@@ -19,7 +19,7 @@ public class DeberDesarrollo {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "Hola Mundo");
         JOptionPane.showMessageDialog(null, "Desarrollo Software I");
-        JOptionPane.showMessageDialog(null, "Grupo I");
+        System.out.println("Giovanni");
     }
     
 }
